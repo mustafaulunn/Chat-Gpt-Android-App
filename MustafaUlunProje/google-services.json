@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829046483677",
+    "project_id": "vize-1234",
+    "storage_bucket": "vize-1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829046483677:android:12c662ef7a83f2ae57c934",
+        "android_client_info": {
+          "package_name": "com.example.mustafaulunproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829046483677-5o72fej81vl21rh7fi5pi91hvo2ojfsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvwQOfz8_80izi6-I45yseO6irXeQ5R6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829046483677-5o72fej81vl21rh7fi5pi91hvo2ojfsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

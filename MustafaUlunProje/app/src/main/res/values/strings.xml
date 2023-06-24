@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chat-Et</string>
+    <string name="email" />
+    <string name="Mail" />
+    <string name="Şifre" />
+    <string name="login" />
+    <string name="Giriş" />
+    <string name="Vize" />
+    <string name="VizeÖ" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
